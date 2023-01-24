@@ -1,3 +1,6 @@
+A question-answering system for plants and animals queries.
+
+
 In order to run the program on a json file, perform the following steps:
 
     1. In the Main cell, add the intended json file's name to the first statement in the main function
